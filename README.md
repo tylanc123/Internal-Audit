@@ -1,4 +1,4 @@
-# Internal-Audit Project
+# Internal Audit Project
 
 <h1>Axion Technology: Audit scope and goals</h1>
 
